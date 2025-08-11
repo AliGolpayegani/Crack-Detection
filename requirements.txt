@@ -1,0 +1,11 @@
+PIL
+glob
+matplotlib
+numpy
+opencv-python
+os
+pandas
+scikit-learn
+shutil
+torch
+torchvision
